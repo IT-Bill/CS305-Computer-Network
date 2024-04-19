@@ -1,0 +1,8 @@
+[submodule "CS305-HTTP-File-Manager"]
+	path = CS305-HTTP-File-Manager
+	url = https://github.com/IT-Bill/CS305-HTTP-File-Manager.git
+	branch = main
+[submodule "program-assignment/CS305-SMTP-Server"]
+	path = program-assignment/CS305-SMTP-Server
+	url = https://github.com/IT-Bill/CS305-SMTP-Server.git
+	branch = main
